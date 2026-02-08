@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "泡沫",
+  "base_artist": "ヰ世界情緒×理芽",
+  "createdAt": "2026-02-08T12:19:42.481449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UTAKATA ~泡沫~ FFRK Ver. arrange from FF零式",
+      "artist": "Takeharu Ishimoto",
+      "has_synced": false,
+      "path": "select/01_UTAKATA_~泡沫~_FFRK_Ver._arrange_from_FF零式_Takeharu_Ishimoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/02_泡沫_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "G.E.M.邓紫棋",
+      "has_synced": true,
+      "path": "select/03_泡沫_G.E.M.邓紫棋.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "邓紫棋",
+      "has_synced": true,
+      "path": "select/04_泡沫_邓紫棋.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/05_泡沫_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "泡沫 - Live",
+      "artist": "邓紫棋",
+      "has_synced": true,
+      "path": "select/06_泡沫_-_Live_邓紫棋.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "鄧紫棋",
+      "has_synced": true,
+      "path": "select/07_泡沫_鄧紫棋.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "G.E.M. 鄧紫棋",
+      "has_synced": true,
+      "path": "select/08_泡沫_G.E.M._鄧紫棋.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/09_泡沫_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "泡沫 (Live)",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/10_泡沫_(Live)_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "泡沫 - PÀO MÒ Remix",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/11_泡沫_-_PÀO_MÒ_Remix_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "泡沫 (PÀO MÒ Remix)",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/12_泡沫_(PÀO_MÒ_Remix)_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/13_泡沫_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "泡沫 (Album Version)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/14_泡沫_(Album_Version)_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "泡沫、哀のまほろば(with senya) <幻想万華鏡 永夜異変の章 OP主題歌>",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/15_泡沫、哀のまほろば(with_senya)__幻想万華鏡_永夜異変の章_OP主題歌_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/16_泡沫_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/17_泡沫_和ぬか.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "泡沫",
+      "artist": "G.E.M",
+      "has_synced": true,
+      "path": "select/18_泡沫_G.E.M.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡沫",
+      "artist": "ヰ世界情緒 × 理芽",
+      "has_synced": false,
+      "path": "select/pl_01_泡沫_ヰ世界情緒_×_理芽.txt"
+    }
+  ]
+}
